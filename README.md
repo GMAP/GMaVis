@@ -1,21 +1,15 @@
-# GMaVis
-
-    ██████╗ ███╗   ███╗ █████╗ ██╗   ██╗██╗███████╗  
-   ██╔════╝ ████╗ ████║██╔══██╗██║   ██║██║██╔════╝  
-   ██║  ███╗██╔████╔██║███████║██║   ██║██║███████╗  
-   ██║   ██║██║╚██╔╝██║██╔══██║╚██╗ ██╔╝██║╚════██║  
-   ╚██████╔╝██║ ╚═╝ ██║██║  ██║ ╚████╔╝ ██║███████║  
-    ╚═════╝ ╚═╝     ╚═╝╚═╝  ╚═╝  ╚═══╝  ╚═╝╚══════╝  
-A Domain-Specific Language for Geo-Visualization
-
+# GMaVis: A Domain-Specific Language for Geo-Visualization
 
 GMaVis is a domain-specific language (DSL) that simplifies the creation of visualization from geospatial information, which is designed to use multi-core architecture parallelism to process data in parallel. Its compiler abstracts complexities from the whole visualization creation process, even in the data pre-processing phase. Also, it allows domain users with
 low-level knowledge in computer programming to create these visualizations through a high-level description language. These users can easily do it with a few lines of code, using simple declarations and blocks to express visualization details. Currently, GMaVis supports the creation of three types of geospatial visualization: markedmap, clusteredmap and heatmap. GMaVis has a short and simple grammar.
 
 Authors:
-**Cleverson Ledur** (Creator)
+**Cleverson Ledur** (Creator) 
+
 **Dalvan Griebler** (Contributor and Mentoring)
+
 **Isabel Mansur** (Mentoring)
+
 **Luiz G. Fernandes** (Mentoring)
 
 Reference Paper:
