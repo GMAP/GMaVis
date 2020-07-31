@@ -24,7 +24,7 @@ Authors:
 
 ## Other publications about GMaVis
 
-[[DOI]](https://doi.org/10.1007/978-3-030-41050-6_7) Vogel A.; Rista, C.; Justo, G.; Ewald, E.; Griebler, D.; Mencagli, G.; Fernandes, L. G. Parallel Stream Processing with MPI for Video Analytics and Data Visualization. Communications in Computer and Information Science (CCIS), 2020.
+[[DOI]](https://doi.org/10.1007/978-3-030-41050-6_7) Vogel A.; Rista, C.; Justo, G.; Ewald, E.; Griebler, D.; Mencagli, G.; Fernandes, L. G. **Parallel Stream Processing with MPI for Video Analytics and Data Visualization**. *Communications in Computer and Information Science (CCIS)*, 2020.
 
 [[DOI]](http://tede2.pucrs.br/tede2/handle/tede/6837) Ledur, C. **GMaVis: A Domain-Specific Language for Large-Scale Geospatial Data Visualization Supporting Multi-core Parallelism**. *Master Thesis*, PPGCC - PUCRS, 2016.
 
