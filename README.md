@@ -7,9 +7,9 @@ low-level knowledge in computer programming to create these visualizations throu
 
 ## Authors
 
-**Cleverson Ledur** (Creator) 
+**Cleverson Ledur** (Creator) <cleversonledur@gmail.com>
 
-**Dalvan Griebler** (Contributor and Mentoring)
+**Dalvan Griebler** (Contributor and Mentoring) <dalvangriebler@gmail.com>
 
 **Isabel Mansur** (Mentoring)
 
