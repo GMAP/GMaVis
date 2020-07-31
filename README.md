@@ -54,5 +54,6 @@ bin/gmavis -h
 
 ## Visualizations
 
-
+![img](https://github.com/GMAP/GMaVis/blob/master/images/heatmap.png)
+![img](https://github.com/GMAP/GMaVis/blob/master/images/marketmap.png)
 
