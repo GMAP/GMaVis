@@ -1,0 +1,21 @@
+visualization: markedmap;
+settings {
+	latitude: field 42;
+	longitude: field 41;
+	page-title: "Acidentes Poa 2014";
+	size: full;
+	zoom-level: 11;
+}
+data {
+	h-file: "datasets/acidentes-2013.csv";
+	structure {
+		delimiter: ';';
+		end-register: newline;
+		date-format: "YYYYMMDD";
+	}
+	filter: field 9 is greater than date "20131201" and field 9 is less than date "20131230"; 
+	classification{
+		class ("Fatal"): field 13 is greater than 0 or field 14 is greater than 0;
+		class ("N-Fatal"): field 12 is greater than 0 or field 11 is greater than 0;
+	}
+}

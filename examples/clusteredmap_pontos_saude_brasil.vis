@@ -1,0 +1,20 @@
+visualization: clusteredmap;
+settings {
+    latitude:   field 3;
+    longitude:  field 4;
+    size:       full;
+}
+data {
+    h-file: "datasets/saude_brasil.csv";
+    filter: field 13 is equal to "2016";
+structure {
+      delimiter: ';';
+	    end-register: newline;
+    }
+    classification{ 
+      class("RS"): field 11 is equal to "RS";
+      class("SP"): field 11 is equal to "SP";
+      class("RJ"): field 11 is equal to "RJ";
+      class("MG"): field 11 is equal to "MG"; 
+   }
+}

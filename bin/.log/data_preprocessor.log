@@ -1,0 +1,16 @@
+Starting processing of file examples/datasets/saude_brasil.csv
+chunk_size:		104857600
+file_size:		6188062
+last_read:		6188061
+total_processed:	6188061
+chunk_count:		1
+end: 			6188061
+start: 			1
+chunk_size:		104857600
+file_size:		6188062
+last_read:		6188062
+total_processed:	1
+chunk_count:		1
+end: 			1
+start: 			1
+	0.00614354	

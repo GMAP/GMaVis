@@ -1,0 +1,21 @@
+To install GMaVis you may have the following software installed
+in your computer:
+
+	- Linux or Unix (tested only on Debian/Ubuntu)
+	- G++ 5.1 or later
+	- Google Chrome or Firefox
+
+To compile GMaVis run the following commands on this directory
+(build):
+ 
+	$ make
+
+To clean GMaVis compilation run the following commands on this 
+directory (build):
+
+	$ make clean
+
+GMaVis binary is located in bin/ directory, called "gmavis". 
+Please, run "gmavis -h" or "gmavis --help" to see the options.
+
+Please, report bugs in: https://gmap.pucrs.br/gmavis 
