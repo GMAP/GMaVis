@@ -13,18 +13,23 @@ Authors:
 
 **Luiz G. Fernandes** (Mentoring)
 
-**Reference Papers for citation**:
+
+
+
+## Reference Papers for citation
 
 [[DOI]](https://doi.org/10.1109/COMPSAC.2017.18) Ledur, C.; Griebler, D.; Manssour, I.; Fernandes, L. G. **A High-Level DSL for Geospatial Visualizations with Multi-core Parallelism Support**. *41st IEEE Computer Society Signature Conference on Computers, Software and Applications (COMPSAC)*, 2017.
 
 [[DOI]](http://dx.doi.org/10.1109/AICCSA.2015.7507178) Ledur, C.; Griebler, D.; Manssour, I.; Fernandes, L. G.. **Towards a Domain-Specific Language for Geospatial Data Visualization Maps with Big Data Sets**. *ACS/IEEE International Conference on Computer Systems and Applications (AICCSA)*, 2015.
 
-**Other publications about GMaVis**:
+## Other publications about GMaVis
 
 [[DOI]](https://doi.org/10.1007/978-3-030-41050-6_7) Vogel A.; Rista, C.; Justo, G.; Ewald, E.; Griebler, D.; Mencagli, G.; Fernandes, L. G. Parallel Stream Processing with MPI for Video Analytics and Data Visualization. Communications in Computer and Information Science (CCIS), 2020.
 
 [[DOI]](http://tede2.pucrs.br/tede2/handle/tede/6837) Ledur, C. **GMaVis: A Domain-Specific Language for Large-Scale Geospatial Data Visualization Supporting Multi-core Parallelism**. *Master Thesis*, PPGCC - PUCRS, 2016.
 
+
+# Using GMaVis
 
 GMaVis' compiler is used to recognize GMaVis' code and transform it in a geospatial data visualizations.
 
