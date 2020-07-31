@@ -4,6 +4,7 @@ GMaVis is a domain-specific language (DSL) that simplifies the creation of visua
 low-level knowledge in computer programming to create these visualizations through a high-level description language. These users can easily do it with a few lines of code, using simple declarations and blocks to express visualization details. Currently, GMaVis supports the creation of three types of geospatial visualization: markedmap, clusteredmap and heatmap. GMaVis has a short and simple grammar.
 
 Authors:
+
 **Cleverson Ledur** (Creator) 
 
 **Dalvan Griebler** (Contributor and Mentoring)
